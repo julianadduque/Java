@@ -1,5 +1,7 @@
 <h1 align='center'>Pasta do javeiro</h1>
 
+![Prancheta 1](https://user-images.githubusercontent.com/120331239/209752441-ac724ea0-5507-4a64-b69a-cfc06e7dd892.png)
+
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
 
 ## Folder Structure
